@@ -11,7 +11,7 @@
 | Vue3         | 前端框架     | https://vuejs.org/             |
 | Vue-router   | 路由框架     | https://router.vuejs.org/      |
 | Element Plus | 前端UI框架   | https://element-plus.org/zh-CN/         |
-| Axios 公理   | 前端HTTP框架 | https://github.com/axios/axios |
+| Axios   | 前端HTTP框架 | https://github.com/axios/axios |
 
 ### 项目部署
 
